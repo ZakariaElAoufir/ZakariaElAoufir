@@ -3,7 +3,7 @@
 Ingénieur d'État en Ingénierie Informatique et Réseaux (EMSI, option MIAGE) et **développeur web full stack Java / Angular**.
 Je conçois des applications web en **architecture microservices** et j'y intègre des briques d'**intelligence artificielle**.
 
-📍 Rabat, Maroc · 🔎 Ouvert à un **CDI en développement web**
+![Ouvert à un CDI en développement web](https://img.shields.io/badge/Ouvert%20%C3%A0%20un%20CDI-D%C3%A9veloppement%20web-2EA44F?style=flat)
 
 ## Stack
 
@@ -12,6 +12,13 @@ Je conçois des applications web en **architecture microservices** et j'y intèg
 - **Mobile** : Flutter, Android (Java)
 - **Données** : PostgreSQL, MySQL, InfluxDB, SQLite
 - **DevOps et outils** : Docker, Git, Keycloak, Prometheus, Grafana, Linux, Microsoft Azure
+
+## Autres compétences techniques
+
+- **Langages** : C, C++, C#, PL/SQL
+- **Frameworks et technologies** : Java Swing, Android Room
+- **Outils de développement** : IntelliJ IDEA, Visual Studio Code, Visual Studio, GitHub
+- **Systèmes et virtualisation** : Windows, VirtualBox, Hyper-V
 
 ## Expérience
 
@@ -58,4 +65,5 @@ Français, arabe, anglais
 
 ## Contact
 
-✉️ [zakaria.elaoufir@gmail.com](mailto:zakaria.elaoufir@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zakaria-el-aoufir-329627282)
+[![E-mail](https://img.shields.io/badge/zakaria.elaoufir%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakaria.elaoufir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/zakaria-el-aoufir-329627282)
